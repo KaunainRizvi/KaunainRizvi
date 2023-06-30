@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I have the unique ability to make websites dance, sing, and even do the Macarena... virtually, of course!**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-linkedin-profile-url/](https://www.linkedin.com/in/kaunain-rizvi-770209281/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-linkedin-profile-url/](https://www.linkedin.com/in/kaunain-rizvi-770209281/)
 
 
 <h3 align="left">Connect with me:</h3>
