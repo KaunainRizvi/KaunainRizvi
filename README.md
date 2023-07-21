@@ -1,4 +1,4 @@
-<img src="https://github.com/KaunainRizvi/KaunainRizvi/blob/main/banner(2).png?raw=true" alt="">
+<img src="[https://github.com/KaunainRizvi/KaunainRizvi/blob/main/banner(2).png?raw=true](https://github.com/KaunainRizvi/KaunainRizvi/blob/main/banner%20github.gif)" alt="">
 <h1 align="center">Hi 👋, I'm Kaunain Rizvi</h1>
 <h3 align="center">Passionate about DSA and MERN Stack: Advancing my Skills</h3>
 
