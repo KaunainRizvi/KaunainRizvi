@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kaunain Rizvi</h1>
 <h3 align="center">Passionate about DSA and MERN Stack: Advancing my Skills</h3>
 <hr></hr>
-<img height="50%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="">
+<img width="50%" height="50%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaunainrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="kaunainrizvi" /> </p>
 
