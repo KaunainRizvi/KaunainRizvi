@@ -1,39 +1,85 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=riixxd&label=Profile%20views&color=F7DC6F&style=flat" alt="riixxd" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Unbounded&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaunain+Rizvi!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Kaunain Rizvi</h1>
-<h3 align="center">Passionate about DSA and MERN Stack: Advancing my Skills</h3>
-<hr></hr>
-<img width="50%" height="50%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+<h3 align="center">FULL STACK WEB DEVELOPER</h3>
+<br>
+<br>
 
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaunainrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="kaunainrizvi" /> </p>
+<br>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaunainrizvi" alt="kaunainrizvi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <a href="https://www.instagram.com/kaunain_rizvi/">Visit my Instagram!</a>
+- 🔭 I’m currently working on [Roweam E-commerce](https://github.com/KaunainRizvi/Rowean_Store)
 
-- 🔭 I’m currently working on **Youtube Clone**
+- 🌱 I’m currently learning **Express**
 
-- 💬 Ask me about **Java, Javascript React Js**
+- 💬 Ask me about **React, Redux, and Chakra**
 
 - 📫 How to reach me **krizvibusiness@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17gP18Leu-YFHFLm4eBYiZOpaxKj5Fcqw/view?usp=drive_link](https://drive.google.com/file/d/17gP18Leu-YFHFLm4eBYiZOpaxKj5Fcqw/view?usp=drive_link)
-
-- ⚡ Fun fact **I have the unique ability to make websites dance, sing, and even do the Macarena... virtually, of course!**
-
-- <a href="https://www.linkedin.com/in/kaunain-rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaunain-rizvi" height="30" width="40" /></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- ⚡ Fun fact **Bugs can't hide in the shadow!**
+<br/>
+<hr/>
+<p>With a flair for crafting visually stunning and seamless user interfaces. I thrive on the creative side of coding, bringing designs to life and ensuring delightful user experiences. Proficient in HTML, CSS, and JavaScript, I have a keen eye for design details and a commitment to building responsive, cross-browser-compatible websites. Whether it's implementing complex animations or optimizing performance for optimal user interactions, I love the challenge of turning ideas into interactive realities. With a strong dedication to staying current with the latest frontend technologies and design trends, I'm on a mission to create digital experiences that captivate and inspire.</p>
+<hr/>
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaunainRizvi" alt="KaunainRizvi" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaunainrizvi&show_icons=true&locale=en&layout=compact" alt="kaunainrizvi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaunainrizvi&show_icons=true&locale=en" alt="kaunainrizvi" /></p>
+<hr/>
+<h3 align="center">Connect with me:</h3>
+<br>
+<p align="left">
+  <div align="center">
+<a href="https://instagram.com/kaunain_rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaunain_rizvi" height="30" width="40" /></a>
+<a href="https://dribbble.com/drii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drii" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/KaunainRizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KaunainRizvi" height="30" width="40" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaunainrizvi&" alt="kaunainrizvi" /></p>
+  </div>
+  <br>
+  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,java" /><br>
+</div>
+
+<br/>
+<hr/>
+<div align="center"> 
+  <a href="mailto:krizvibusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/kaunain-rizvi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+<br>
+<br>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaunainRizvi)](https://git.io/streak-stats)
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KaunainRizvi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kaunainrizvi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaunainrizvi" /></a></p><br><br>
 
