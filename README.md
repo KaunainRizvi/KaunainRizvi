@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Unbounded&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaunain+Rizvi!;" />
 </h1>
 
-<h3 align="center">FULL STACK WEB DEVELOPER "[M.E.R.N]"</h3>
+<h3 align="center">FULL STACK WEB DEVELOPER [M.E.R.N] Stack</h3>
 <br>
 <br>
 
