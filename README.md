@@ -15,11 +15,11 @@
 
 
  <a href="https://www.instagram.com/kaunain_rizvi/">Visit my Instagram!</a>
-- 🔭 I’m currently working on [Roweam E-commerce](https://github.com/KaunainRizvi/Rowean_Store)
+- 🔭 I’m currently working on [SpendWise - Money Tracking Web App](https://github.com/KaunainRizvi/)
 
 - 🌱 I’m currently learning **Express**
 
-- 💬 Ask me about **React, Redux, and Chakra**
+- 💬 Ask me about **React, Redux, and Chakra-UI**
 
 - 📫 How to reach me **krizvibusiness@gmail.com**
 
