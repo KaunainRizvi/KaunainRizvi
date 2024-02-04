@@ -15,7 +15,7 @@
 
 
  <a href="https://www.instagram.com/kaunain_rizvi/">Visit my Instagram!</a>
-- 🔭 I’m currently working on [SpendWise - Money Tracking Web App](https://github.com/KaunainRizvi/)
+- 🔭 I’m currently working on [SpendWise - Money Tracking Web App](https://github.com/KaunainRizvi/Spendwise-Web-App)
 
 - 🌱 I’m currently learning **Express**
 
