@@ -17,9 +17,9 @@
  <a href="https://www.instagram.com/kaunain_rizvi/">Visit my Instagram!</a>
 - 🔭 I’m currently working on [SpendWise - Money Tracking Web App](https://github.com/KaunainRizvi/Spendwise-Web-App)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React, Redux, and Chakra-UI**
+- 💬 Ask me about **DSA (JAVA), Javascript, React, Redux, Tailwind Css, Node, Express & Mongo DB**
 
 - 📫 How to reach me **krizvibusiness@gmail.com**
 
